@@ -1,0 +1,6 @@
+*
+!.gitignore
+!preprocess.py
+!*/
+!*/a/b/c/*
+.DS_Store
