@@ -1,6 +1,7 @@
 *
 !.gitignore
-!preprocess.py
+!extrapolate.py
+!preprocess.ipynb
 !*/
 !*/a/b/c/*
 .DS_Store
